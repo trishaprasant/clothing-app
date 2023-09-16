@@ -9,5 +9,5 @@ A simple Web application for inference / demo of MNIST image classification neur
    Upload Image to predict by clicking on 'Choose File' button and then click on 'Predict' buttton.
 
 <!--  ![ScreenShot](flask_img_1.PNG?raw=true | width=100 | height=200)  -->
-![GIF of clothing identifier web application](ezgif.com-video-to-gif.gif)
+![GIF of clothing identifier web application](ezgif.com-video-to-gif.2gif.gif)
 
